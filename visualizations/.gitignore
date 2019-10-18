@@ -1,7 +1,0 @@
-dist
-.idea
-node_modules
-.DS_Store
-.vscode
-yarn-error.log
-storybook-static
